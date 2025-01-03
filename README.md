@@ -1,2 +1,2 @@
 # Portscanner
-It is a type of scanner which scans ports in any of the devices or any type of machine which secured or not .
+A Portscanner is a cybersecurity tool used to identify open ports and services running on a networked system. By scanning for open ports, it helps security professionals assess potential vulnerabilities that attackers could exploit. Portscanners work by sending requests to a system's ports and analyzing the responses to determine whether the ports are open, closed, or filtered. They are commonly used for network reconnaissance, penetration testing, and vulnerability assessments. Popular examples include tools like Nmap and Masscan.
